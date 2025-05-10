@@ -2,10 +2,10 @@
   {
     "IsFavourite": false,
     "Name": "3D Spherical Cube",
-    "Thumbnail": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/thumbnail.png",
+    "Thumbnail": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/thumbnail.jpeg",
     "Description": "Just an Spherical Diagram",
     "Source": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/3d_ripple.glb",
-    "Poster": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/thumbnail.png",
+    "Poster": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/thumbnail.jpeg",
     "AltText": "Generated Using Unity Engine",
     "IosSrc": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/3d_ripple.glb",
     "AnimationNames": [],
@@ -45,14 +45,10 @@
       "Idle"
     ],
     "EnvironmentImages": [
-      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg",
-      "https://modelviewer.dev/shared-assets/environments/forest_1k_HDR.jpg",
-      "https://modelviewer.dev/shared-assets/environments/park_1k_HDR.jpg"
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg"
     ],
     "SkyboxImages": [
-      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg",
-      "https://modelviewer.dev/shared-assets/environments/forest_1k_HDR.jpg",
-      "https://modelviewer.dev/shared-assets/environments/park_1k_HDR.jpg"
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg"
     ]
   }
 ]
