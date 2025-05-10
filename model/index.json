@@ -1,3 +1,24 @@
-{
-  
-}
+[
+  {
+    "Name": "CFD Models Name",
+    "Thumbnail": "https://codefrydev.in/images/IconCodefrydev.svg",
+    "Description": "A Nerve Plant",
+    "Source": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/nerveplant.glb",
+    "Poster": "poster.webp",
+    "AltText": "3D Model",
+    "IosSrc": "",
+    "AnimationNames": [
+      "Idle"
+    ],
+    "EnvironmentImages": [
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg",
+      "https://modelviewer.dev/shared-assets/environments/forest_1k_HDR.jpg",
+      "https://modelviewer.dev/shared-assets/environments/park_1k_HDR.jpg"
+    ],
+    "SkyboxImages": [
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg",
+      "https://modelviewer.dev/shared-assets/environments/forest_1k_HDR.jpg",
+      "https://modelviewer.dev/shared-assets/environments/park_1k_HDR.jpg"
+    ]
+  }
+]
