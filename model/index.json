@@ -1,9 +1,43 @@
 [
   {
+    "IsFavourite": false,
+    "Name": "3D Spherical Cube",
+    "Thumbnail": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/thumbnail.png",
+    "Description": "Just an Spherical Diagram",
+    "Source": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/3d_ripple.glb",
+    "Poster": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/thumbnail.png",
+    "AltText": "Generated Using Unity Engine",
+    "IosSrc": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/3dripple/3d_ripple.glb",
+    "AnimationNames": [],
+    "EnvironmentImages": [
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg"
+    ],
+    "SkyboxImages": [
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg"
+    ]
+  },
+  {
+    "IsFavourite": false,
+    "Name": "3D Spherical Cube",
+    "Thumbnail": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/sphericalmaze/thumbnail.png",
+    "Description": "Just an Spherical Diagram",
+    "Source": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/sphericalmaze/spherical_maze.glb",
+    "Poster": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/sphericalmaze/thumbnail.png",
+    "AltText": "Generated Using Unity Engine",
+    "IosSrc": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/sphericalmaze/spherical_maze.glb",
+    "AnimationNames": [],
+    "EnvironmentImages": [
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg"
+    ],
+    "SkyboxImages": [
+      "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.jpg"
+    ]
+  },
+  {
     "Name": "CFD Models Name",
     "Thumbnail": "https://codefrydev.in/images/IconCodefrydev.svg",
     "Description": "A Nerve Plant",
-    "Source": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/nerveplant.glb",
+    "Source": "https://raw.githubusercontent.com/abhijeetunreal/3DB/refs/heads/main/model/nerveplant/nerveplant.glb",
     "Poster": "poster.webp",
     "AltText": "3D Model",
     "IosSrc": "",
